@@ -1,0 +1,17 @@
+﻿<Project>
+    <PropertyGroup>
+        <Title>Webinex Migrations</Title>
+        <PackageVersion>1.0.0-rc1</PackageVersion>
+        <Authors>Webinex Dev</Authors>
+        <NoWarn>$(NoWarn);CS1591</NoWarn>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <LangVersion>9.0</LangVersion>
+        <Nullable>disable</Nullable>
+        <Description>Easy to use Fluent Migrations wrapper</Description>
+        <Copyright>Webinex Dev</Copyright>
+        <PackageProjectUrl>https://github.com/webinex/migrations</PackageProjectUrl>
+        <License>https://github.com/webinex/migrations/LICENSE</License>
+        <RepositoryUrl>https://github.com/webinex/migrations</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+    </PropertyGroup>
+</Project>
